@@ -1,10 +1,10 @@
 <?php
 
 class Book {
-    public int $isbn;
-    public string $title;
-    public string $author;
-    public int $available;
+    private int $isbn;
+    private string $title;
+    private string $author;
+    private int $available;
 
     public function __construct(
         int $isbn,
