@@ -6,3 +6,6 @@
     - Use of __set() method
     - Use of __get() method
     - Use of __toString() method
+
+## Screenshot
+![screenthot](./screenshot.png)
